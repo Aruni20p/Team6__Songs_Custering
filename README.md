@@ -10,7 +10,8 @@ This project aims to apply Clustering based on features such as Energy, loudness
 The dataset contains 12 features and 5235 including some important and some redundant.
 
 # Data Preprocessing: 
-We performed a rigorous Data Preprocessing to improve quality of the clusters formed. 
+We performed a rigorous Data Preprocessing to improve quality of the clusters formed. To further enhance efficiency we applied PCA
+
 
 # Model Selection for Clustering
 1.) K-Means: When the number of clusters is known in advance, and the data is expected to form spherical clusters.
