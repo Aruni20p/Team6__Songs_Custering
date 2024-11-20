@@ -21,5 +21,7 @@ We performed a rigorous Data Preprocessing to improve quality of the clusters fo
 
 # Evaluation:
 1.) Silhouette Score-: Measures how similar a data point is to its own cluster (cohesion) compared to other clusters (separation).
+
 2.)The Davies-Bouldin Index (DBI)-: It is a metric that evaluates cluster separation by comparing the intra-cluster distance with the inter-cluster distance. It measures how well-separated the clusters are.
+
 3.) The Calinski-Harabasz Index-: It measures the ratio of the sum of between-cluster dispersion to within-cluster dispersion.
