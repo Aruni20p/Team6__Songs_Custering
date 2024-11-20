@@ -7,7 +7,7 @@ This project aims to apply Clustering based on features such as Energy, loudness
 
 # Importing Necessary Libraries
 # Data Acquisition: 
-The dataset contains 12 features and 5235 including some important and some redundant.
+The dataset contains 18 features and 5235 including some important and some redundant.
 
 # Data Preprocessing: 
 We performed a rigorous Data Preprocessing to improve quality of the clusters formed. To further enhance efficiency we applied PCA
